@@ -3,4 +3,4 @@ def main():
   password = "frankiegoestohollywood"
 
   
-https://www.oracle.com:frankie.hollywood@frankiegoestohollywood)
+https://www.oracle.com:frankie.hollywood@frankiegoestohollywood
