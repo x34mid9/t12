@@ -4,3 +4,4 @@ def main():
 
   
 https://www.oracle.com:frankie.hollywood@frankiegoestohollywood
+#git clone https://username:password@github.com/username/repository.git
